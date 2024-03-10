@@ -2,19 +2,19 @@
 
 ## Contents <!-- omit in toc -->
 
-- [1. What is this project](#1-what-is-this-project)
-- [2. Choose Between Traditional Web Apps and Single Page Apps](#2-choose-between-traditional-web-apps-and-single-page-apps)
-- [3. How is it organized](#3-how-is-it-organized)
+- [1. Traditional Web Apps VS Single Page Apps](#1-traditional-web-apps-vs-single-page-apps)
+- [2. API](#2-api)
+- [3. API Architecure Styles](#3-api-architecure-styles)
+  - [3.1. REST](#31-rest)
+  - [3.2. SOAP](#32-soap)
+  - [3.3. GRPC](#33-grpc)
+  - [3.4. GraphQL](#34-graphql)
 
-# 1. What is this project
-
-- This is a project that shows the difference between Traditional Page Lifecycle (SSR) and Spa (Simple Page Application) Lifecycle.
-
-# 2. Choose Between Traditional Web Apps and Single Page Apps
+# 1. Traditional Web Apps VS Single Page Apps
 
 - There are two general approaches to building web applications today:
-  - Traditional web applications that perform most of the application logic on the server (Server Side Rendering (SSR)).
-  - Single-page applications (SPAs) that perform most of the user interface logic in a web browser, communicating with the web server primarily using web APIs.
+  - **Traditional web applications** that perform most of the application logic on the server (Server Side Rendering (SSR)).
+  - **Single-page applications (SPAs)** that perform most of the user interface logic in a web browser, communicating with the web server primarily using web APIs.
 - Use traditional web applications when:
   - Your application's client-side requirements are simple or even read-only.
   - Your application needs to function in browsers without JavaScript support.
@@ -24,9 +24,16 @@
   - Your application must already expose an API for other (internal or public) clients.
     - This is can be controlled...
 
-![Difference Between Traditional Page and SPA](Images/DifferenceBetweenTraditionalPageAndSPA.png)
+![Traditional Page vs SPA](Images/TraditionalPageVsSPA.png)
 
-# 3. How is it organized
+# 2. API
 
-- SpaLifecyle (.NET 6.0 / webapi + angular)
-- TraditionalPageLifecycle (.NET 6.0 / webapp)
+# 3. API Architecure Styles
+
+## 3.1. REST
+
+## 3.2. SOAP
+
+## 3.3. GRPC
+
+## 3.4. GraphQL
