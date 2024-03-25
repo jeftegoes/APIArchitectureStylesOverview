@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2024-03-11T13:17:38.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="JU7lUou9uA3xyvG9rMzh" version="22.1.16" type="device">
+  <diagram name="Page-1" id="L0TJrEbbFdJJ6A6nA2GD">
+    <mxGraphModel dx="1084" dy="1184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lAvdedLtS5PVevO08WNf-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lAvdedLtS5PVevO08WNf-2" value="localhost:3000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lAvdedLtS5PVevO08WNf-3" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="570" y="310" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lAvdedLtS5PVevO08WNf-4" value="localhost:3000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lAvdedLtS5PVevO08WNf-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="390" y="360" as="sourcePoint" />
+            <mxPoint x="560" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lAvdedLtS5PVevO08WNf-6" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="220" y="490" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lAvdedLtS5PVevO08WNf-7" value="localhost:4000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="220" y="550" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lAvdedLtS5PVevO08WNf-8" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="570" y="490" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lAvdedLtS5PVevO08WNf-9" value="localhost:3000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="570" y="550" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lAvdedLtS5PVevO08WNf-10" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="390" y="540" as="sourcePoint" />
+            <mxPoint x="560" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lAvdedLtS5PVevO08WNf-11" value="CORS Error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF0000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="420" y="550" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lAvdedLtS5PVevO08WNf-12" value="&lt;b style=&quot;font-size: 21px;&quot;&gt;&lt;font color=&quot;#ed7100&quot; style=&quot;font-size: 21px;&quot;&gt;C&lt;/font&gt;&lt;/b&gt;ross-&lt;font color=&quot;#ed7100&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;O&lt;/b&gt;&lt;/font&gt;rigin &lt;font color=&quot;#ed7100&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;R&lt;/b&gt;&lt;/font&gt;esource &lt;font color=&quot;#ed7100&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;S&lt;/b&gt;&lt;/font&gt;haring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="320" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
